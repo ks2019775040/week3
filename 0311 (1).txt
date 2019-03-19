@@ -1,0 +1,42 @@
+윈도우 단축키
+
+Devc ++ 프로그램 설치
+
+File
+
+Graphic User Interface
+Command Line Interface
+
+컴퓨터를 사용할 때 사용자는 항상 특정 디렉토리에서 작업을 한다.
+
+사용자가 작업을 할 때, 현재 작업 중인 디렉토리는 생략 가능
+
+
+directorey = folder
+
+slash, back slash
+
+
+파일 경로
+
+절대 경로 	: \(root)부터 기술
+상대 경로	: pwd를 기준으로 . or ..
+
+.  	: 자신
+..	: 부모
+
+
+파일은 실행파일 과 데이터 파일로 분류
+
+
+실행 파일
+exe, com, bat
+
+
+path : 실행 파일의 경로 설정 
+
+set path=%PATH%; 원하는 경로;
+
+directory 관련 명령 : cd, md, rd
+file 관련 명령 : dir, ren, del, copy
+
